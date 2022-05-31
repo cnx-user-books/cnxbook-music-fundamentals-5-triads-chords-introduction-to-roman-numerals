@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Seventh Chords and Inversions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m25129</md:content-id>
+  <md:title>Seventh Chords and Inversions</md:title>
+  <md:abstract>An introduction to seventh chords and their inversions.</md:abstract>
+  <md:uuid>5f20ab15-d209-4a53-8459-9c4e565e3818</md:uuid>
+</metadata>
+<content>
+    
+    <para id="id6573186">We learned earlier that triads can be created on each scale step or each scale degree. In a similar manner, seventh chords can be created by stacking additional notes a third above the triads. Root position seventh chords when stacked as closely as possible have all notes either on spaces or all on lines. For instance, see the example of seventh chords on scale degrees in C Major (Figure 1):</para>
+    <figure id="id18345804">
+      <media id="id18345804_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1.png" id="id18345804__onlineimage" height="106" width="650"/>
+      </media>
+    </figure>
+    <para id="id14145595">Let’s carefully examine the quality of each chord. The triads (lowest three notes) are either major, minor, or diminished when built on the C major scale. The sevenths are either major or minor 7ths (Figure 2):</para>
+    <para id="id8195833">
+      <figure id="id11295452">
+        <media id="id11295452_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2.png" id="id11295452__onlineimage" height="106" width="649"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id19434076">The first letter in Figure 2 refers to the quality of the triad; the second letter to the quality of the seventh. For instance, in the first chord built on C the triad is major, “M,” and the seventh is also major, “M.” In the second seventh chord both the triad and seventh are minor, “m.” </para>
+    <para id="id6311778">One seventh chord deserves special attention. The dominant seventh chord is the most prominent seventh chord in common practice music. It is distinct from the other seventh chords since it is the only one possessing a major triad with a minor seventh. The dominant seventh, whether in a major or minor key, is always a major triad with a minor seventh above the root of the chord. Figure 3 supplies a dominant seventh chord built on G:</para>
+    <para id="id13083611">
+      <figure id="id5513021">
+        <media id="id5513021_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3.png" id="id5513021__onlineimage" height="155" width="383"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id15196986">Inversions of Seventh Chords</para>
+    <para id="id12672128">Here is an easy way to remember the inversions of seventh chords:</para>
+    <para id="id12229180">7 – 65 – 43 – 2</para>
+    <para id="id10817628">Notice the descending pattern of numbers. The root position and three inversions use this order of numbers to label the chords. Figure 4 gives a tonic seventh chord built on C with the root position and inversions: </para>
+    <figure id="id10807637">
+      <media id="id10807637_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4.png" id="id10807637__onlineimage" height="127" width="511"/>
+      </media>
+    </figure>
+    <para id="id15108072">Figure 5 demonstrates how the inversions are obtained. The bass note (C4) in the root position triad is moved up an octave to C5 for the 1<sup>st</sup> inversion. Similarly the bass notes in the 1<sup>st</sup> inversion is transposed up an octave for the 2<sup>nd</sup> inversion, etc. </para>
+    <figure id="id12569771">
+      <media id="id12569771_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5.png" id="id12569771__onlineimage" height="125" width="503"/>
+      </media>
+    </figure>
+    <para id="id10774481">Observe that an alternative way to label the 3<sup>rd</sup> inversion is 4 over2.</para>
+    <para id="id8193769">Recognizing Inversions of Seventh Chords</para>
+    <para id="id12568172">Take these steps to recognize inversions of seventh chords. 1) stack the chord in closed position (as closely as possible) with the bass as the lowest note. Remove duplicated pitches. 2) find the second in the chord. The root of the chord will be the top note of that second. 3) If the root is the top note the chord is 1<sup>st</sup> inversion, 2<sup>nd</sup> from the top—2<sup>nd</sup> inversion, 3<sup>rd</sup> from the top—3<sup>rd</sup> inversion. Figures 6 and 9 supplies examples of the process:</para>
+    <para id="id14346785">
+      <figure id="id6781104">
+        <media id="id6781104_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6.png" id="id6781104__onlineimage" height="167" width="374"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id10669187">The bass is written first to the right. The redundant (extra) F# is not added to the revised chord.</para>
+    <figure id="id19489688">
+      <media id="id19489688_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics7.png" id="id19489688__onlineimage" height="167" width="374"/>
+      </media>
+    </figure>
+    <para id="id6082014">The D is added to the new chord.</para>
+    <figure id="id17289838">
+      <media id="id17289838_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics8.png" id="id17289838__onlineimage" height="167" width="374"/>
+      </media>
+    </figure>
+    <para id="id12883664">The A is added.</para>
+    <figure id="id10846052">
+      <media id="id10846052_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics9.png" id="id10846052__onlineimage" height="167" width="374"/>
+      </media>
+    </figure>
+    <para id="id12776082">Finally the C is added and all the notes are in the new closed position chord. Notice that the second--the non-third interval--is easy to identify. All the chord tones are on spaces except for the root--D5. This root forms a second with the note below it. Since the root is on the top of the chord, this is a first inversion seventh chord. Here is the harmonic analysis (Figure 10):</para>
+    <figure id="id9687693">
+      <media id="id9687693_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics10.png" id="id9687693__onlineimage" height="167" width="374"/>
+      </media>
+    </figure>
+    <para id="id11660956">Practice labeling these seventh chords in G major (Answers below)</para>
+    <figure id="id19483252">
+      <media id="id19483252_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics11.png" id="id19483252__onlineimage" height="81" width="649"/>
+      </media>
+    </figure>
+    <para id="id19485992">Answers: G Major: 1. ii7, 2. V7, 3. I65, 4. V43, 5. IV65, 6. V2 </para>
+  </content>
+</document>
